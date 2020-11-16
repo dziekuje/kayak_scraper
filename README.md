@@ -11,3 +11,5 @@ Make sure to install the required packages by running:
 ```bash
 pip install -r requirements.txt
 ```
+
+https://github.com/amal-hasni/kayak_scraper
