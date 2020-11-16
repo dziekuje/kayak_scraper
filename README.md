@@ -11,5 +11,8 @@ Make sure to install the required packages by running:
 ```bash
 pip install -r requirements.txt
 ```
+https://medium.com/analytics-vidhya/what-if-selenium-could-do-a-better-job-than-your-travel-agency-5e4e74de08b0
+
+https://medium.com/python-in-plain-english/master-selenium-webdriver-with-python-in-10-minutes-8affc8b931c
 
 https://github.com/amal-hasni/kayak_scraper
